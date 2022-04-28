@@ -1,6 +1,6 @@
 ###  Wellcome to my Github 
 
-[- PlayStore profile](https://play.google.com/console/u/0/developers/9112283771910965324/accountdetails)<br>
+[- PlayStore profile](https://play.google.com/store/apps/developer?id=Mednologic&hl=ca&gl=US)<br>
 
 
 <!--
