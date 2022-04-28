@@ -1,4 +1,7 @@
-### Hi there 👋
+###  Wellcome to my Github 
+
+[- PlayStore profile](https://play.google.com/console/u/0/developers/9112283771910965324/accountdetails)<br>
+
 
 <!--
 **mednologic/mednologic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
