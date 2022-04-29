@@ -1,6 +1,6 @@
 ###  Wellcome to my Github, my name it's Uri
 
-[- PlayStore profile](https://play.google.com/store/apps/developer?id=Mednologic&hl=ca&gl=US){:target="\_blank"}
+[- PlayStore profile](https://play.google.com/store/apps/developer?id=Mednologic&hl=ca&gl=US)
 <br>
 
 ### Android Apps
@@ -13,12 +13,12 @@
        </a>
     </td>
     <td align="center">
-       <a href="https://play.google.com/store/apps/details?id=app.medcraft.listinstalledapplications&hl=ca&gl=US">
+       <a href="https://play.google.com/store/apps/details?id=app.medcraft.listinstalledapplications&hl=ca&gl=US" target="_blank">
         <img width="50" alt="Package explorer" src="https://user-images.githubusercontent.com/71066003/165738477-860a263b-afbd-495c-abcb-e5a099d90250.png">
        </a>
         </td>
     <td align="center">
-     <a href="https://play.google.com/store/apps/details?id=com.mednologic.triatgedigger&hl=ca&gl=US">
+     <a href="https://play.google.com/store/apps/details?id=com.mednologic.triatgedigger&hl=ca&gl=US" target="_blank">
        <img width="50" alt="Traductor médico" src="https://user-images.githubusercontent.com/71066003/165738479-508e3e53-0763-4bed-adb8-894b1a415cc6.png">
     </a>
  </td>
