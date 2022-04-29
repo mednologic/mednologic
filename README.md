@@ -7,7 +7,7 @@
 <table align="center">
  <tr>
     <td align="center">
-       <a href="https://play.google.com/store/apps/details?id=app.medcraft.QuizDAM&hl=es&gl=US">
+       <a href="https://play.google.com/store/apps/details?id=app.medcraft.QuizDAM&hl=es&gl=US" target="_blank">
         <img width="50" alt="QuizDam" src="https://user-images.githubusercontent.com/71066003/165738469-b3cb330a-33ea-4ddd-b2ff-fa2898cfd8c5.png">
        </a>
     </td>
