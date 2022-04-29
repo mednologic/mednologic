@@ -1,6 +1,7 @@
 ###  Wellcome to my Github, my name it's Uri
 
-[- PlayStore profile](https://play.google.com/store/apps/developer?id=Mednologic&hl=ca&gl=US)<br>
+[- PlayStore profile](https://play.google.com/store/apps/developer?id=Mednologic&hl=ca&gl=US){:target="\_blank"}
+<br>
 
 ### Android Apps
 
