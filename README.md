@@ -1,10 +1,10 @@
-###  Wellcome to my Github, my name it's Uri
+###  Wellcome to my Github, my name it's Uri. [PlayStore profile](https://play.google.com/store/apps/developer?id=Mednologic&hl=ca&gl=US)
+Code should be like poetry
 
-[- PlayStore profile](https://play.google.com/store/apps/developer?id=Mednologic&hl=ca&gl=US)
 <br>
 
 ### Android Apps
-
+<hr>
 <table align="center">
  <tr>
     <td align="center">
@@ -43,8 +43,9 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-<br>
+
 ### Languages
+
 [![English](https://img.shields.io/badge/ENGLISH---%20Advanced-green)]()
 [![Spanish](https://img.shields.io/badge/SPANISH---%20Native-green)]()
 [![Catalan](https://img.shields.io/badge/CATALAN---%20Native-green)]()
