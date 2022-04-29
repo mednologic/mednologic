@@ -4,23 +4,34 @@
 
 ### Android Apps
 
-<table>
+<table align="center">
  <tr>
-    <td>
+    <td align="center">
        <a href="https://play.google.com/store/apps/details?id=app.medcraft.QuizDAM&hl=es&gl=US">
         <img width="50" alt="QuizDam" src="https://user-images.githubusercontent.com/71066003/165738469-b3cb330a-33ea-4ddd-b2ff-fa2898cfd8c5.png">
        </a>
     </td>
-    <td>
+    <td align="center">
        <a href="https://play.google.com/store/apps/details?id=app.medcraft.listinstalledapplications&hl=ca&gl=US">
         <img width="50" alt="Package explorer" src="https://user-images.githubusercontent.com/71066003/165738477-860a263b-afbd-495c-abcb-e5a099d90250.png">
        </a>
         </td>
-    <td>
+    <td align="center">
      <a href="https://play.google.com/store/apps/details?id=com.mednologic.triatgedigger&hl=ca&gl=US">
        <img width="50" alt="Traductor médico" src="https://user-images.githubusercontent.com/71066003/165738479-508e3e53-0763-4bed-adb8-894b1a415cc6.png">
     </a>
  </td>
+ </tr>
+ <tr>
+   <td align="center">
+     QuizDam
+   </td>
+   <td align="center">
+     Packages
+   </td>
+   <td align="center">
+     Med.Translator
+   </td>
  </tr>
 </table>
 
