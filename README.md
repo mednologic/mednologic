@@ -46,6 +46,14 @@ Code should be like poetry
 <br>
 ### TeamSKILLS
 [![GITHUB](https://img.shields.io/badge/GITHUB-%20-yellow)]()
+[![TRELLO](https://img.shields.io/badge/Trello-%20-blue)]()
+[![GANNT](https://img.shields.io/badge/Gantt-%20-important)]()
+[![KANBAN](https://img.shields.io/badge/KANBAN-%20-9CF)]()
+
+
+
+
+
 
 
 ### Languages
